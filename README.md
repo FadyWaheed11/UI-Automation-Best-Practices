@@ -11,3 +11,5 @@ Project is created with:
 * selenium-support version: 4.6.0
 * testng version: 7.6.1
 * json-simple version: 1.1.1
+## Concepts
+* Page-Object-Model **POM**
