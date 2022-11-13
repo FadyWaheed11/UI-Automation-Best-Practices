@@ -2,7 +2,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* * [Concepts](#concepts)
+* [Concepts](#concepts)
 ## General info
 This project is a simple maven project applying some important concepts in the field of **UI Automation Testing.**
 ## Technologies
