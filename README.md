@@ -13,6 +13,8 @@ Project is created with:
 * json-simple version: 1.1.1
 ## Concepts
 * Page-Object-Model Pattern **POM**
-* Data driven
 * Singleton Design Pattern
+* Method Chaining Concept
+* Data Driven technique
 * Read & Write from **JSON** File
+* Dynamic Locators
