@@ -12,5 +12,7 @@ Project is created with:
 * testng version: 7.6.1
 * json-simple version: 1.1.1
 ## Concepts
-* Page-Object-Model **POM**
+* Page-Object-Model Pattern **POM**
 * Data driven
+* Singleton Design Pattern
+* Read & Write from **JSON** File
