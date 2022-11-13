@@ -16,6 +16,7 @@ Project is created with:
 * Page-Object-Model Pattern **POM**
 * Singleton Design Pattern
 * Method Chaining Concept
+* Static Factory Method
 * Data Driven technique
 * Read & Write from **JSON** File
 * Dynamic Locators
