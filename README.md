@@ -13,3 +13,4 @@ Project is created with:
 * json-simple version: 1.1.1
 ## Concepts
 * Page-Object-Model **POM**
+* Data driven
