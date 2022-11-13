@@ -7,7 +7,7 @@
 This project is a simple maven project applying some important concepts in the field of **UI Automation Testing.**
 ## Technologies
 Project is created with:
-* Java version: 18
+* Java version: JDK-18
 * selenium-java version: 4.6.0
 * selenium-support version: 4.6.0
 * testng version: 7.6.1
