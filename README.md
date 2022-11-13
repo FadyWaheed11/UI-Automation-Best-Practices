@@ -3,7 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 ## General info
-This project is a simple maven project applying some important concepts in the field of ui automation testing.
+This project is a simple maven project applying some important concepts in the field of **ui automation testing**.
 ## Technologies
 Project is created with:
 * selenium-java version: 4.6.0
