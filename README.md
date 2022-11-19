@@ -20,4 +20,3 @@ Project is created with:
 * Data Driven technique
 * Read & Write from **JSON** File
 * Dynamic Locators
-![image](https://user-images.githubusercontent.com/41761100/202857896-52eb221c-3577-4118-bc6a-7cd2d4425423.png)
