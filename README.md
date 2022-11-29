@@ -22,8 +22,7 @@ Project is created with:
 * Read & Write from **JSON** File
 * Dynamic Locators
 ## Project Structure
-* This is our Framework we will talk about every package in details later on.
-* ![Screenshot 2022-11-29 183059](https://user-images.githubusercontent.com/41761100/204592039-f76e1b6b-62c6-47e9-b5e1-b8798ef02b9e.png)
-* Here is where our Test cases are located
-* ![Screenshot 2022-11-29 184703](https://user-images.githubusercontent.com/41761100/204592226-cff692ed-635c-41a6-983b-3a170f2476c4.png)
+* **Consists of two part**
+  1- Main part which contains our framework
+  2- Test part which contains our test scenarios
 
