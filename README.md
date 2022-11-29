@@ -22,5 +22,5 @@ Project is created with:
 * Dynamic Locators
 ## Project Structure
 * This is our Framework we will talk about every package in details later on.
-* ![Screenshot 2022-11-29 183059](https://user-images.githubusercontent.com/41761100/204588632-fa77b0dd-8acd-4229-aeaf-5e0638caf850.png)
+* ![Screenshot 2022-11-29 183059](https://user-images.githubusercontent.com/41761100/204588803-4e1ebe27-598d-4626-bf00-38b624ba2b9e.png)
 
