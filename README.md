@@ -3,6 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Concepts](#concepts)
+* [Project Structure](#project structure)
 ## General info
 This project is a simple maven project applying some important concepts in the field of **UI Automation Testing.**
 ## Technologies
