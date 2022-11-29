@@ -15,7 +15,7 @@ Project is created with:
 * Testng version: 7.6.1
 * Json-simple version: 1.1.1
 ## Concepts
-* [Page-Object-Model Pattern **POM**](#pom)
+* [Page-Object-Model Pattern **POM**](#POM)
 * Singleton Design Pattern
 * Method Chaining Concept
 * Static Factory Method
