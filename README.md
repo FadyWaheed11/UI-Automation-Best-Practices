@@ -17,6 +17,6 @@ Project is created with:
 * Singleton Design Pattern
 * Method Chaining Concept
 * Static Factory Method
-* Data Driven technique
+* Data Driven techniques
 * Read & Write from **JSON** File
 * Dynamic Locators
