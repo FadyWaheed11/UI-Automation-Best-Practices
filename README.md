@@ -23,6 +23,6 @@ Project is created with:
 * Dynamic Locators
 ## Project Structure
 * **Consists of two part**
-  1- Main part which contains our framework
-  2- Test part which contains our test scenarios
+  - Main part which contains our framework
+  - Test part which contains our test scenarios
 
