@@ -39,5 +39,5 @@ Project is created with:
 * Validation on the cart section:
   - Validate on the total price
   - Validate on the count of added hoodies
-##POM
+## POM
 
