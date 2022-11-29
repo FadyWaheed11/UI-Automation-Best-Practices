@@ -22,7 +22,7 @@ Project is created with:
 * Dynamic Locators
 ## Project Structure
 * This is our Framework we will talk about every package in details later on.
-* ![Screenshot 2022-11-29 183059](https://user-images.githubusercontent.com/41761100/204588803-4e1ebe27-598d-4626-bf00-38b624ba2b9e.png)
+* ![Screenshot 2022-11-29 183059](https://user-images.githubusercontent.com/41761100/204591904-4d419121-c6a7-4358-b5e5-328ebe496cc8.png)
 * Here is where our Test cases are located
 * ![Screenshot 2022-11-29 184703](https://user-images.githubusercontent.com/41761100/204591098-92171f01-52dd-4720-b6d2-b566c03ca3a1.png)
 
