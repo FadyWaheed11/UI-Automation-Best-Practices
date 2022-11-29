@@ -24,5 +24,5 @@ Project is created with:
 * This is our Framework we will talk about every package in details later on.
 * ![Screenshot 2022-11-29 183059](https://user-images.githubusercontent.com/41761100/204592039-f76e1b6b-62c6-47e9-b5e1-b8798ef02b9e.png)
 * Here is where our Test cases are located
-* ![Screenshot 2022-11-29 184703](https://user-images.githubusercontent.com/41761100/204591098-92171f01-52dd-4720-b6d2-b566c03ca3a1.png)
+* ![Screenshot 2022-11-29 184703](https://user-images.githubusercontent.com/41761100/204592226-cff692ed-635c-41a6-983b-3a170f2476c4.png)
 
