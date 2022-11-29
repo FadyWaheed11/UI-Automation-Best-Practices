@@ -15,7 +15,7 @@ Project is created with:
 * Testng version: 7.6.1
 * Json-simple version: 1.1.1
 ## Concepts
-* Page-Object-Model Pattern **POM**
+* [Page-Object-Model Pattern **POM**](pom)
 * Singleton Design Pattern
 * Method Chaining Concept
 * Static Factory Method
@@ -39,4 +39,5 @@ Project is created with:
 * Validation on the cart section:
   - Validate on the total price
   - Validate on the count of added hoodies
+* POM
 
