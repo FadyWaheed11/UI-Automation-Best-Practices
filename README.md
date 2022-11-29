@@ -20,3 +20,7 @@ Project is created with:
 * Data Driven techniques
 * Read & Write from **JSON** File
 * Dynamic Locators
+## Project Structure
+* This is our Framework we will talk about every package in details later on.
+![Screenshot 2022-11-29 183059](https://user-images.githubusercontent.com/41761100/204587563-b6b96a38-2f58-4c90-8a5b-8c1bc96135ae.png)
+
