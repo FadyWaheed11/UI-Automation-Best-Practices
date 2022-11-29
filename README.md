@@ -8,10 +8,10 @@ This project is a simple maven project applying some important concepts in the f
 ## Technologies
 Project is created with:
 * Java version: JDK-18
-* selenium-java version: 4.6.0
-* selenium-support version: 4.6.0
-* testng version: 7.6.1
-* json-simple version: 1.1.1
+* Selenium-java version: 4.6.0
+* Selenium-support version: 4.6.0
+* Testng version: 7.6.1
+* Json-simple version: 1.1.1
 ## Concepts
 * Page-Object-Model Pattern **POM**
 * Singleton Design Pattern
