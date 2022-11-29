@@ -29,4 +29,5 @@ Project is created with:
   - ![Screenshot 2022-11-29 201354](https://user-images.githubusercontent.com/41761100/204613691-451500e4-b709-4ad9-ba8d-4afddb4a5843.png)
 ## Test Scenario
 * Our test scenario is to go to https://magento.softwaretestingboard.com/
+* Create a new account
 
