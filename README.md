@@ -30,4 +30,13 @@ Project is created with:
 ## Test Scenario
 * Our test scenario is to go to https://magento.softwaretestingboard.com/
 * Create a new account
+* Fill new address form
+* Go to men section
+* Go to hoodies and sweatshirts section
+* Add random hoodies and sweatshirts to the cart i mean by random is:
+  - Random colour from the available ones
+  - Random size
+* Validation on the cart section:
+  - Validate on the total price
+  - Validate on the count of added hoodies
 
