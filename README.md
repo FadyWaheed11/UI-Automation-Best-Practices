@@ -44,5 +44,6 @@ Project is created with:
 * Page Object Model (POM) is a design pattern, popularly used in test automation that creates Object Repository for web UI elements.
 * The advantage of the model is that it reduces code duplication and improves test maintenance.
 * We separate the framework (coding part) from the testing part
+ - ![204613691-451500e4-b709-4ad9-ba8d-4afddb4a5843](https://user-images.githubusercontent.com/41761100/204801549-c8ba26dd-ff3c-497f-a444-e5353a1bf59c.png)
 * We represent each webpage in our website by Class in the framework
 
