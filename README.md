@@ -49,9 +49,9 @@ Project is created with:
  - ![Screenshot 2022-11-30 145605](https://user-images.githubusercontent.com/41761100/204803096-b00e883b-2902-44d6-8281-0243c968a603.jpg) ![Screenshot 2022-11-30 145737](https://user-images.githubusercontent.com/41761100/204803641-1d285ff6-85e8-4cd9-a92f-9547d3cf4f74.png)
 * You can read more about POM structure on:
  - [Guru99](https://www.guru99.com/page-object-model-pom-page-factory-in-selenium-ultimate-guide.html)
- - https://www.geeksforgeeks.org/page-object-model-pom/
- - https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/
- - https://www.browserstack.com/guide/page-object-model-in-selenium
+ - [GeeksForGeeks](https://www.geeksforgeeks.org/page-object-model-pom/)
+ - [Official Selenium](https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/)
+ - [BrowserStack](https://www.browserstack.com/guide/page-object-model-in-selenium)
 ## Singleton Design Pattern
 * Singleton design pattern restricts the instantiation of a class and ensures that only one instance of the class exists in the jvm
 * So in our case we want to ensure that we have only one instance of WebDriver
