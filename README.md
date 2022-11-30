@@ -40,5 +40,6 @@ Project is created with:
 * Validation on the cart section:
   - Validate on the total price
   - Validate on the count of added hoodies
-## POM  
+## POM
+* Page Object Model (POM) is a design pattern, popularly used in test automation that creates Object Repository for web UI elements.
 
