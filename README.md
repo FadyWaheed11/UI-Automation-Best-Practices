@@ -33,7 +33,7 @@ Project is created with:
 * Fill new address form
 * Go to men section
 * Go to hoodies and sweatshirts section
-* Add random hoodies and sweatshirts to the cart i mean by random is:
+* Add random hoodies and sweatshirts to the cart, I mean by random is:
   - Random colour from the available ones
   - Random size
 * Validation on the cart section:
