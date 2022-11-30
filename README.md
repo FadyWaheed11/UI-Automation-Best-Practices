@@ -16,7 +16,7 @@ Project is created with:
 * Json-simple version: 1.1.1
 ## Concepts
 * [Page-Object-Model Pattern **POM**](#pom)
-* Singleton Design Pattern
+* [Singleton Design Pattern](#singleton-design-pattern)
 * Method Chaining Concept
 * Static Factory Method
 * Data Driven techniques
