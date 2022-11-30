@@ -30,6 +30,7 @@ Project is created with:
 ## Test Scenario
 * Our test scenario is to go to https://magento.softwaretestingboard.com/
 * Create a new account
+  - Use different email for each run by using the machine date as a part of the email
 * Fill new address form
 * Go to men section
 * Go to hoodies and sweatshirts section
