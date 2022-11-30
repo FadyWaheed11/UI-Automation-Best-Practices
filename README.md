@@ -55,5 +55,6 @@ Project is created with:
 ## Singleton Design Pattern
 * Singleton design pattern restricts the instantiation of a class and ensures that only one instance of the class exists in the jvm
 * So in our case we want to ensure that we have only one instance of WebDriver
- - ![carbon (1)](https://user-images.githubusercontent.com/41761100/204816886-3f826cb6-4c52-4ab0-9a67-e00ab8b50e69.svg)
+ - ![Singleton](https://user-images.githubusercontent.com/41761100/204817225-65b88168-8f0b-4517-ad74-bd3e706eded7.svg)
+
 
