@@ -54,3 +54,5 @@ Project is created with:
  - https://www.browserstack.com/guide/page-object-model-in-selenium
 ## Singleton Design Pattern
 * Singleton design pattern restricts the instantiation of a class and ensures that only one instance of the class exists in the jvm
+* So in our case we want to have only one instance of WebDriver
+ - ![carbon](https://user-images.githubusercontent.com/41761100/204812264-77caddf2-6f0d-49f4-8cd5-b8e7b1539eda.png)
