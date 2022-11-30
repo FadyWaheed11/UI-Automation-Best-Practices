@@ -52,3 +52,4 @@ Project is created with:
  - https://www.geeksforgeeks.org/page-object-model-pom/
  - https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/
  - https://www.browserstack.com/guide/page-object-model-in-selenium
+## Singleton Design Pattern
