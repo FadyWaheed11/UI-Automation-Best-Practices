@@ -53,3 +53,4 @@ Project is created with:
  - https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/
  - https://www.browserstack.com/guide/page-object-model-in-selenium
 ## Singleton Design Pattern
+* Singleton design pattern restricts the instantiation of a class and ensures that only one instance of the class exists in the jvm
