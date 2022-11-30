@@ -17,7 +17,7 @@ Project is created with:
 ## Concepts
 * [Page-Object-Model Pattern **POM**](#pom)
 * [Singleton Design Pattern](#singleton-design-pattern)
-* Method Chaining Concept
+* [Method Chaining Concept](#method-chaining-concept)
 * Static Factory Method
 * Data Driven techniques
 * Read & Write from **JSON** File
@@ -56,5 +56,4 @@ Project is created with:
 * Singleton design pattern restricts the instantiation of a class and ensures that only one instance of the class exists in the jvm
 * So in our case we want to ensure that we have only one instance of WebDriver
  - ![Singleton](https://user-images.githubusercontent.com/41761100/204817225-65b88168-8f0b-4517-ad74-bd3e706eded7.svg)
-
-
+## Method Chaining Concept
