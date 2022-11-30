@@ -46,7 +46,8 @@ Project is created with:
 * We separate the framework (coding part) from the testing part
  - ![204613691-451500e4-b709-4ad9-ba8d-4afddb4a5843](https://user-images.githubusercontent.com/41761100/204801549-c8ba26dd-ff3c-497f-a444-e5353a1bf59c.png)
 * We represent each webpage in our website by Class in the framework
- - ![Screenshot 2022-11-30 145605](https://user-images.githubusercontent.com/41761100/204803096-b00e883b-2902-44d6-8281-0243c968a603.jpg) ![Screenshot 2022-11-30 145737](https://user-images.githubusercontent.com/41761100/204803314-fce0953e-3746-48a2-9ca8-ce3c7d2e6262.png)
+ - ![Screenshot 2022-11-30 145605](https://user-images.githubusercontent.com/41761100/204803096-b00e883b-2902-44d6-8281-0243c968a603.jpg) ![Screenshot 2022-11-30 145737](https://user-images.githubusercontent.com/41761100/204803641-1d285ff6-85e8-4cd9-a92f-9547d3cf4f74.png)
+
 
 
 
