@@ -41,5 +41,6 @@ Project is created with:
   - Validate on the count of added hoodies
 ## POM
 * Page Object Model is a design pattern popularly used in test automation that creates Object Repository for web UI elements. 
+* The advantage of the model is that it reduces code duplication and improves test maintenance.
 * We represent each web page in the website by Class in our automation framework
 
