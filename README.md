@@ -59,4 +59,5 @@ Project is created with:
 * You can read more about singleton design pattern on:
   - [TutorialsPoint](https://www.tutorialspoint.com/design_pattern/singleton_pattern.htm)
   - [GeeksForGeeks](https://www.geeksforgeeks.org/java-singleton-design-pattern-practices-examples/)
+  - [Medium](https://medium.com/geekculture/introduction-to-design-patterns-understanding-singleton-design-pattern-5a4d49960444#:~:text=The%20Singleton%20Design%20Pattern%20is,%3B%20in%20case%20of%20Java).)
 ## Method Chaining Concept
