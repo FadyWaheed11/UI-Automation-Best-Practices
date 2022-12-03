@@ -68,4 +68,5 @@ Project is created with:
 * Instead of this
   - ![carbon](https://user-images.githubusercontent.com/41761100/205444321-c9b66f35-4d5a-4902-a6e8-4d6990bcc77a.svg)
 * We do this
-  - ![carbon (2)](https://user-images.githubusercontent.com/41761100/205444166-12350c8d-df1d-4270-9aec-fbde3254edcf.svg)
+  - ![carbon (1)](https://user-images.githubusercontent.com/41761100/205444382-52e54122-38ce-44b2-bbf8-480807be2814.svg)
+
