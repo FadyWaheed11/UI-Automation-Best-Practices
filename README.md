@@ -66,6 +66,6 @@ Project is created with:
 * So in our case we made those method return this which refers to the current object
   - ![Method Chaining](https://user-images.githubusercontent.com/41761100/205443702-54c7c867-9a72-4019-8d68-b6936b4354f8.svg)
 * Instead of this
-  - ![carbon (1)](https://user-images.githubusercontent.com/41761100/205444145-a993cab8-af7c-46f4-9a4f-b8a03c642fa0.svg)
+  - ![carbon (3)](https://user-images.githubusercontent.com/41761100/205444202-599633e4-67a8-4d24-ad57-96682094439d.svg)
 * We do this
   - ![carbon (2)](https://user-images.githubusercontent.com/41761100/205444166-12350c8d-df1d-4270-9aec-fbde3254edcf.svg)
