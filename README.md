@@ -63,3 +63,5 @@ Project is created with:
 ## Method Chaining Concept
 * Method Chaining is the practice of calling different methods in a single line instead of calling other methods with the same object reference separately. Under this procedure, we have to write the object reference once and then call the methods by separating them with a (dot.).
 * Syntax -> obj.method1().method2().method3();
+* So in our case we made those method return this which refers to the current object
+  - ![Method Chaining](https://user-images.githubusercontent.com/41761100/205443702-54c7c867-9a72-4019-8d68-b6936b4354f8.svg)
