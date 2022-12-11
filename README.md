@@ -19,7 +19,7 @@ Project is created with:
 * [Singleton Design Pattern](#singleton-design-pattern)
 * [Method Chaining Concept](#method-chaining-concept)
 * [Static Factory Method](#static-factory-method)
-* Data Driven techniques
+* [Data Driven Techniques](#data-driven-techniques)
 * Read & Write from **JSON** File
 * Dynamic Locators
 ## Project Structure
@@ -89,5 +89,5 @@ Project is created with:
   - [GeeksForGeeks](https://www.geeksforgeeks.org/difference-between-constructor-and-static-factory-method-in-java/#:~:text=The%20static%20factory%20methods%20are,cached%20and%20reused%20if%20required)
   - [Baeldung](https://www.baeldung.com/java-constructors-vs-static-factory-methods)
   - [StackOverFlow](https://stackoverflow.com/questions/929021/what-are-static-factory-methods)
-## Data Driven techniques
+## Data Driven Techniques
 
