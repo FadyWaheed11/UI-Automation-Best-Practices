@@ -87,5 +87,5 @@ Project is created with:
 * You can read more about Static Factory Method on:
   - [Medium](https://medium.com/javarevisited/static-factory-methods-an-alternative-to-public-constructors-73cbe8b9fda)
   - [GeeksForGeeks](https://www.geeksforgeeks.org/difference-between-constructor-and-static-factory-method-in-java/#:~:text=The%20static%20factory%20methods%20are,cached%20and%20reused%20if%20required)
-  - 
+  - [Baeldung](https://www.baeldung.com/java-constructors-vs-static-factory-methods)
 
