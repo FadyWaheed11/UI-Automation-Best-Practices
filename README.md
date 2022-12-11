@@ -76,4 +76,3 @@ Project is created with:
   - The static factory method can have a meaningful name 
   - Static factory methods can return the same type that implements the method, a subtype, and also primitives.
   - Inside static factory method other than initialization if we want to perform any activity for every object creation like increasing count value for every object creation we can do this in the static factory method. 
-  - 
