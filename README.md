@@ -101,4 +101,7 @@ Project is created with:
  - If test is run on Mac, then again there is a different problem.
 * This function for reading JSON file:
   ![carbon (2)](https://user-images.githubusercontent.com/41761100/206923545-d98a385b-a7fd-44b2-a73f-06508b7db119.svg)
+* This function for updating specific value in JSON file:
+  ![carbon (3)](https://user-images.githubusercontent.com/41761100/206923668-9a71a4a1-2216-4e0a-b355-987de6e7bb94.svg)
+  
 
