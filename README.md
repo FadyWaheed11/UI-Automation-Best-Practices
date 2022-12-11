@@ -79,5 +79,6 @@ Project is created with:
   - Encapsulate the construction logic.
 * So How we will benefit from this in our framework ?
   - If we are testing the UI of website , we might have 50 pages or more 
+  - And we had 50 test classes , we would have this new home page called 50 times
     ![carbon](https://user-images.githubusercontent.com/41761100/206920025-ee0a3b98-ac1d-4e69-8f38-badcf97df63e.svg)
 
