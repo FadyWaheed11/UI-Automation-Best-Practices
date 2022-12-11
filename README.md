@@ -79,10 +79,10 @@ Project is created with:
   - Encapsulate the construction logic.
 * So How we will benefit from this in our framework ?
   - If we are testing the UI of website , we might have 50 pages or more 
-  - And we had 50 test classes , we would have this new home page called 50 times
+  - And we had 50 test classes , we would have this new home page called 50 times:
     ![carbon](https://user-images.githubusercontent.com/41761100/206920025-ee0a3b98-ac1d-4e69-8f38-badcf97df63e.svg)
   - Imagine if we decide to change the constructor of this class , we will have to change it in 50 different places 
-  - But with this, it's only one place
+  - But with this, it's only one place:
     ![carbon (1)](https://user-images.githubusercontent.com/41761100/206920317-d360d32c-5015-40fe-9a6c-92a6ddc41a3c.svg)
 * You can read more about Static Factory Method on:
   - [Medium](https://medium.com/javarevisited/static-factory-methods-an-alternative-to-public-constructors-73cbe8b9fda)
