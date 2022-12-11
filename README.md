@@ -94,4 +94,8 @@ Project is created with:
 * Data Driven Framework is an automation testing framework in which input values are read from data files and stored into variables in test scripts.
 * Data Driven Testing is important because testers frequently have multiple data sets for a single test and creating individual tests for each data set can be time-consuming.
 * In our case we will use JSON files for data driven.
-
+### Why JSON over Excel?
+ - Most of data driven testing framework we have used Excel – Apache POI But there is other medium as well to store data into files such as csv, xml, json, text file, etc.
+ - Excel is good to manage data and to use but it comes with its own limitations. Like MS Office needs to be installed on the system where the tests are being executed. 
+ - As the test servers has never bound to have such dependencies.
+ - If test is run on Mac, then again there is a different problem.
