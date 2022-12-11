@@ -20,7 +20,7 @@ Project is created with:
 * [Method Chaining Concept](#method-chaining-concept)
 * [Static Factory Method](#static-factory-method)
 * [Data Driven Techniques](#data-driven-techniques)
-* [Read & Write from **JSON** File](#read-&-write-from-json-file)
+* [Read & Write from **JSON** File](#read-write-from-json-file)
 * Dynamic Locators
 ## Project Structure
 * **Consists of two part**
@@ -100,7 +100,7 @@ Project is created with:
  - As the test servers has never bound to have such dependencies.
  - If test is run on Mac, then again there is a different problem.
  
-## Read & Write from JSON File
+## read write from json file
 * This function for reading JSON file:
   ![carbon (2)](https://user-images.githubusercontent.com/41761100/206923545-d98a385b-a7fd-44b2-a73f-06508b7db119.svg)
 * This function for updating specific value in JSON file:
