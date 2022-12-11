@@ -20,7 +20,7 @@ Project is created with:
 * [Method Chaining Concept](#method-chaining-concept)
 * [Static Factory Method](#static-factory-method)
 * [Data Driven Techniques](#data-driven-techniques)
-* Read & Write from **JSON** File
+* [Read & Write from **JSON** File]()
 * Dynamic Locators
 ## Project Structure
 * **Consists of two part**
@@ -99,9 +99,8 @@ Project is created with:
  - Excel is good to manage data and to use but it comes with its own limitations. Like MS Office needs to be installed on the system where the tests are being executed. 
  - As the test servers has never bound to have such dependencies.
  - If test is run on Mac, then again there is a different problem.
+## Read & Write from **JSON** File
 * This function for reading JSON file:
   ![carbon (2)](https://user-images.githubusercontent.com/41761100/206923545-d98a385b-a7fd-44b2-a73f-06508b7db119.svg)
 * This function for updating specific value in JSON file:
   ![carbon (3)](https://user-images.githubusercontent.com/41761100/206923668-9a71a4a1-2216-4e0a-b355-987de6e7bb94.svg)
-  
-
