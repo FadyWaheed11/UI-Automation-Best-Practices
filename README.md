@@ -72,3 +72,4 @@ Project is created with:
 ## Static Factory Method
 * The most widely used technique to allow other parts of our Java programs, to get objects of a certain type, is to create public constructors.
 * There is also another technique which is that provides various advantages and it would be highly recommendable for every programmer to know. Classes can provide static factory methods. This methods are another way of returning instances.
+  - ## Advantages of static factory method
