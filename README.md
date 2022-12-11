@@ -75,5 +75,7 @@ Project is created with:
 * #### Advantages of static factory method
   - The static factory method can have a meaningful name 
   - Static factory methods can return the same type that implements the method, a subtype, and also primitives.
-  - Inside static factory method other than initialization if we want to perform any activity for every object creation like increasing count value for every object creation we can do this in the static factory method. 
+  - Inside static factory method other than initialization if we want to perform any activity for every object creation like increasing count value for every object creation we can do this in the static factory method.
+  - Encapsulate the construction logic
 * So How we will benefit from this in our framework ?
+  - If we are testing the UI of website , we might have 50 pages or more
