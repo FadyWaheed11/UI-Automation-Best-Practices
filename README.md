@@ -70,3 +70,4 @@ Project is created with:
 * We do this:
   - ![carbon (1)](https://user-images.githubusercontent.com/41761100/205444382-52e54122-38ce-44b2-bbf8-480807be2814.svg)
 ## Static Factory Method
+* The most widely used technique to allow other parts of our Java programs, to get objects of a certain type, is to create public constructors.
