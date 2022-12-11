@@ -20,7 +20,7 @@ Project is created with:
 * [Method Chaining Concept](#method-chaining-concept)
 * [Static Factory Method](#static-factory-method)
 * [Data Driven Techniques](#data-driven-techniques)
-* [Read & Write from **JSON** File](#reaad-&write-from-json-file)
+* [Read & Write from **JSON** File](#reaad-&-write-from-json-file)
 * Dynamic Locators
 ## Project Structure
 * **Consists of two part**
