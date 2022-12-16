@@ -89,7 +89,7 @@ Project is created with:
 * This function for reading JSON file:
   ![carbon (7)](https://user-images.githubusercontent.com/41761100/208143652-6b5089ba-9f8b-42d3-a5d9-37711fdcdcb4.svg)
 * This function for updating specific value in JSON file:
-  ![carbon (3)](https://user-images.githubusercontent.com/41761100/206923668-9a71a4a1-2216-4e0a-b355-987de6e7bb94.svg)
+  ![carbon (8)](https://user-images.githubusercontent.com/41761100/208144073-5f308434-c6a9-41f6-9ca7-f345b10aee4e.svg)
 ## Test Scenario
 * Our test scenario is to go to [Ecommerce-Website](https://magento.softwaretestingboard.com/)
 * Create a new account
