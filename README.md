@@ -21,7 +21,6 @@ Project is created with:
 * [Static Factory Method](#static-factory-method)
 * [Data Driven Techniques](#data-driven-techniques)
 * [Read & Write from **JSON** File](#read-write-from-json-file)
-* Dynamic Locators
 ## Project Structure
 * **Consists of two part**
   - Main part which contains our framework
