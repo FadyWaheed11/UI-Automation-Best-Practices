@@ -52,7 +52,7 @@ Project is created with:
 * So in our case we made those methods return this which refers to the current object
   - ![carbon (5)](https://user-images.githubusercontent.com/41761100/208139063-196b8373-4320-43fb-86fc-3ea118c2352b.svg)
 * So in our Test part instead of calling methods like this:
-  - ![carbon (2)](https://user-images.githubusercontent.com/41761100/205444424-d7de2a0f-ffe2-4139-9242-3a47d4bc7f79.svg)
+  - ![carbon (6)](https://user-images.githubusercontent.com/41761100/208139482-4ff4894f-7f3d-41e1-8938-f630ef61d69a.svg)
 * We do this:
   - ![carbon (1)](https://user-images.githubusercontent.com/41761100/205444382-52e54122-38ce-44b2-bbf8-480807be2814.svg)
 ## Static Factory Method
