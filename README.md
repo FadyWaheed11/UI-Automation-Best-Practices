@@ -67,8 +67,9 @@ Project is created with:
   - If we are testing the UI of website , we might have 50 pages or more 
   - And we had 50 test classes , we would have this new home page called 50 times:
     ![carbon (3)](https://user-images.githubusercontent.com/41761100/208141493-c433c114-494c-417e-85b6-27704ba028ce.svg)
+  - Imagine if we decide to change the constructor of this class , we will have to change it in 50 different places 
   - But with this, it's only one place:
-    ![carbon (5)](https://user-images.githubusercontent.com/41761100/208142165-58fea523-26d8-4138-883e-c8730b84e449.svg)
+  - ![carbon (6)](https://user-images.githubusercontent.com/41761100/208143356-c33d4806-438d-46f2-bd7a-83155cda9110.svg)
 * You can read more about Static Factory Method on:
   - [Medium](https://medium.com/javarevisited/static-factory-methods-an-alternative-to-public-constructors-73cbe8b9fda)
   - [GeeksForGeeks](https://www.geeksforgeeks.org/difference-between-constructor-and-static-factory-method-in-java/#:~:text=The%20static%20factory%20methods%20are,cached%20and%20reused%20if%20required)
