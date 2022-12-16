@@ -54,7 +54,7 @@ Project is created with:
 * So in our Test part instead of calling methods like this:
   - ![carbon (1)](https://user-images.githubusercontent.com/41761100/208140898-94cc656e-7630-4039-9312-59d03374340b.svg)
 * We do this:
-  - ![carbon (7)](https://user-images.githubusercontent.com/41761100/208139765-f1e3d168-9414-44ad-bf14-53be3a881684.svg)
+  - ![carbon (2)](https://user-images.githubusercontent.com/41761100/208141113-9a7f0330-fcc1-4874-8c4b-2a0f06206c5a.svg)
 ## Static Factory Method
 * The most widely used technique to allow other parts of our Java programs, to get objects of a certain type, is to create public constructors.
 * There is also another technique which is that provides various advantages and it would be highly recommendable for every programmer to know. Classes can provide static factory methods. This methods are another way of returning instances.
