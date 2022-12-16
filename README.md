@@ -98,8 +98,10 @@ Project is created with:
 * Go to men section
 * Go to hoodies and sweatshirts section
 * Add random hoodies and sweatshirts to the cart, I mean by random is:
-  - Random colour from the available ones
-  - Random size
+  - Random sweatshirt from the page list
+  - Random colour from the available ones for this sweatshirt
+  - Random size for this sweatshirt
 * Validation on the cart section:
   - Validate on the total price
   - Validate on the count of added hoodies
+* Complete the scenario
