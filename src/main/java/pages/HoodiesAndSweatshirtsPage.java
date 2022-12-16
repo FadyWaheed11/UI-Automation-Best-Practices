@@ -9,6 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 import static locators.CartLocators.*;
+import static pages.CheckoutShippingPage.getCheckoutShippingPage;
 import static utils.Helper.getRandomNumber;
 import static utils.Helper.updateJsonFile;
 import static utils.SharedSteps.*;
@@ -108,6 +109,11 @@ public class HoodiesAndSweatshirtsPage {
 
         public String getHoodiesCount() {
             return findElement(HOODIES_COUNT_LOCATOR.by()).getText();
+        }
+
+        public CheckoutShippingPage goCheckoutShippingPage() {
+            clickOnElement(PROCEED_TO_CHECKOUT_LOCATOR.by());
+            return getCheckoutShippingPage();
         }
     }
 }

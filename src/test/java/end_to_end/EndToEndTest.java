@@ -46,10 +46,14 @@ public class EndToEndTest extends BaseTest {
                 .chooseHoodieAndSweatshirt()
                 .chooseHoodieAndSweatshirt()
                 .chooseHoodieAndSweatshirt();
-        cartSection
-                .openCartSection();
+        cartSection.openCartSection();
         CartData cartData = getCartData();
         assertEquals(cartSection.getTotalPrice(),cartData.getExpectedTotalPrice());
         assertEquals(cartSection.getHoodiesCount(),cartData.getExpectedCountOfHoodies());
+        cartSection
+                .goCheckoutShippingPage()
+                .goToCheckoutPayment()
+                .goToSuccessPage()
+                .goToHomePage();
     }
 }

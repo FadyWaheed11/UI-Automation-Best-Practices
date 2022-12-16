@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="E-CommerceProject" />
         <module name="E-Commerce Project" />
+        <module name="UI-Automation-Best-Practices" />
       </profile>
     </annotationProcessing>
   </component>

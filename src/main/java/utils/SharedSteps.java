@@ -1,6 +1,7 @@
 package utils;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -25,6 +26,12 @@ public final class SharedSteps {
 
     public static void clickOnElement(WebElement elementPath) {
         wait.until(ExpectedConditions.elementToBeClickable(elementPath)).click();
+    }
+
+    public static void clickOnElementByJavaScript(By elementPath) {
+        WebElement element = wait.until(ExpectedConditions.presenceOfElementLocated(elementPath));
+        JavascriptExecutor executor = (JavascriptExecutor) driver;
+        executor.executeScript("arguments[0].click();", element);
     }
 
     public static void clickOnCheckBox(By checkBoxPath) {
