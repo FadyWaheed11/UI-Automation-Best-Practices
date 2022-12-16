@@ -26,19 +26,6 @@ Project is created with:
   - Main part which contains our framework
   - Test part which contains our test scenarios
   - ![Screenshot 2022-11-29 201354](https://user-images.githubusercontent.com/41761100/204613691-451500e4-b709-4ad9-ba8d-4afddb4a5843.png)
-## Test Scenario
-* Our test scenario is to go to [Ecommerce-Website](https://magento.softwaretestingboard.com/)
-* Create a new account
-  - Use different email for each run by using the machine date as a part of the email
-* Fill new address form
-* Go to men section
-* Go to hoodies and sweatshirts section
-* Add random hoodies and sweatshirts to the cart, I mean by random is:
-  - Random colour from the available ones
-  - Random size
-* Validation on the cart section:
-  - Validate on the total price
-  - Validate on the count of added hoodies
 ## POM
 * Page Object Model (POM) is a design pattern, popularly used in test automation that creates Object Repository for web UI elements.
 * The advantage of the model is that it reduces code duplication and improves test maintenance.
@@ -103,3 +90,16 @@ Project is created with:
   ![carbon (2)](https://user-images.githubusercontent.com/41761100/206923545-d98a385b-a7fd-44b2-a73f-06508b7db119.svg)
 * This function for updating specific value in JSON file:
   ![carbon (3)](https://user-images.githubusercontent.com/41761100/206923668-9a71a4a1-2216-4e0a-b355-987de6e7bb94.svg)
+## Test Scenario
+* Our test scenario is to go to [Ecommerce-Website](https://magento.softwaretestingboard.com/)
+* Create a new account
+  - Use different email for each run by using the machine date as a part of the email
+* Fill new address form
+* Go to men section
+* Go to hoodies and sweatshirts section
+* Add random hoodies and sweatshirts to the cart, I mean by random is:
+  - Random colour from the available ones
+  - Random size
+* Validation on the cart section:
+  - Validate on the total price
+  - Validate on the count of added hoodies
