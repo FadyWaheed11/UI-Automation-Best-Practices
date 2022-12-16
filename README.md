@@ -66,10 +66,10 @@ Project is created with:
 * So How we will benefit from this in our framework ?
   - If we are testing the UI of website , we might have 50 pages or more 
   - And we had 50 test classes , we would have this new home page called 50 times:
-    ![carbon](https://user-images.githubusercontent.com/41761100/206920025-ee0a3b98-ac1d-4e69-8f38-badcf97df63e.svg)
+    ![carbon (3)](https://user-images.githubusercontent.com/41761100/208141493-c433c114-494c-417e-85b6-27704ba028ce.svg)
   - Imagine if we decide to change the constructor of this class , we will have to change it in 50 different places 
   - But with this, it's only one place:
-    ![carbon (1)](https://user-images.githubusercontent.com/41761100/206920317-d360d32c-5015-40fe-9a6c-92a6ddc41a3c.svg)
+    ![carbon (4)](https://user-images.githubusercontent.com/41761100/208141572-d5b444cc-679f-439a-ad1e-7d5372c5a3f0.svg)
 * You can read more about Static Factory Method on:
   - [Medium](https://medium.com/javarevisited/static-factory-methods-an-alternative-to-public-constructors-73cbe8b9fda)
   - [GeeksForGeeks](https://www.geeksforgeeks.org/difference-between-constructor-and-static-factory-method-in-java/#:~:text=The%20static%20factory%20methods%20are,cached%20and%20reused%20if%20required)
